@@ -97,7 +97,7 @@ The kernel module creates a proc file at `/proc/kernel_monitor` that exports sys
 
 ## License
 
-This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
 
