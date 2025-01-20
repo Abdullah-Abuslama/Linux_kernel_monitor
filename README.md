@@ -69,7 +69,7 @@ linux-kernel-monitor/
 ├── docs/
 │   └── screenshot.png
 ├── video/
-│   └── ScreenRecord.mp4
+│   └── ScreenRecord.mkv
 ├── Makefile
 ├── README.md
 └── LICENSE
