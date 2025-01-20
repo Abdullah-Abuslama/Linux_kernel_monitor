@@ -68,6 +68,8 @@ linux-kernel-monitor/
 │   └── User_Space_Application.c
 ├── docs/
 │   └── screenshot.png
+├── video/
+│   └── ScreenRecord.mp4
 ├── Makefile
 ├── README.md
 └── LICENSE
